@@ -1,0 +1,33 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Clion配置文件忽略
+.idea/
+
+# cmake中间文件忽略
+Main/cmake-build-debug/
+
+# 本地测试文件忽略
+Main/ForDebug/
+
+# 临时运行文件忽略
+Main/.run/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+*.exe  
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
